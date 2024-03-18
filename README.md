@@ -12,12 +12,14 @@ Trois workers spécialisés (`WrkTextFile`, `WrkDataFile` et `WrkObjectFile`) re
  
 ## Interface utilisateur
 L’ihm est composée de 3 onglets permettant d’accéder à des fonctionnalités propres aux 3 domaines de fonctionnalités précitées.
-![]
 Le premier onglet permet d’expérimenter les fonctionnalités autour de la lecture, l’écriture et le rajout de texte dans des fichiers.
+![Premier onglet ](images/interace_texte.png)
 
 Le second onglet permet d’expérimenter les fonctionnalités autour de la lecture et l’écriture de types de base Java dans des fichiers. Dans cet exemple, c’est un dessin monochrome qui sera sauvegardé (un tableau à 2 dimensions de booléens représentant chaque point du dessin).
+![Deuxième onglet ](images/interface_binaire.png.png)
 
 Et pour terminer le troisième et dernier onglet permet d’expérimenter les fonctionnalités autour de la sérialisation et désérialisation de divers objets Java.
+![Troisième onglet ](images/interface_serialisation.png.png)
 
 
 ## Fonctionnement
